@@ -1,3 +1,6 @@
+[B]1.0.2[/B]
+- Added localization
+
 [B]1.0.1[/B]
 - Updated to include the adverts
 
